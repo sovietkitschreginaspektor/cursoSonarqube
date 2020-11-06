@@ -1,0 +1,14 @@
+FernandoOnJava8: 62f7f1176fe88053f849fa9fed087c1f8391c2b1
+
+
+javascript-token: 53a69a5ca6d2f09236d5beedc26fcc16d7fcfa02
+
+
+Token del proyecto: 15fc56a255af905f3d505c94521bb6ad1470035d
+
+
+
+mvn sonar:sonar \
+  -Dsonar.projectKey=PRIMER_PROYECTO \
+  -Dsonar.host.url=http://localhost:8081 \
+  -Dsonar.login=15fc56a255af905f3d505c94521bb6ad1470035d
